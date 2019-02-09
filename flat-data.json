@@ -25,4 +25,14 @@
     "url": "https:\/\/images.unsplash.com\/photo-1544207240-42895ede7c09?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
     "price": 4800,
     "currency": "SGD"
+},
+{
+    "id": 4,
+    "place": "Eunos"
+    "rent": 88,
+    "lat": 1.331748,
+    "lng": 103.905136,
+    "url": "https:\/\/images.unsplash.com\/photo-1544207240-42895ede7c09?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+    "price": 4800,
+    "currency": "SGD"
 }]

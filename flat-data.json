@@ -54,10 +54,9 @@
     "url": "https:\/\/images.unsplash.com\/photo-1544207240-42895ede7c09?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
     "price": 4800,
     "currency": "SGD"
-}
-,{
+},{
     "id": 5,
-    "place": "Marina Bay" ,
+    "place": "Marina Bay Sands" ,
     "rent": 88,
     "lat": 1.283469,
     "lng": 103.860416,

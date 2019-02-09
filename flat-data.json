@@ -46,7 +46,7 @@
 },
  ,
 {
-    "id": 4,
+    "id": 5,
     "place": "Eunos" ,
     "rent": 88,
     "lat": 1.331748,
@@ -55,7 +55,7 @@
     "price": 4800,
     "currency": "SGD"
 },{
-    "id": 5,
+    "id": 6,
     "place": "Marina Bay Sands" ,
     "rent": 88,
     "lat": 1.283469,

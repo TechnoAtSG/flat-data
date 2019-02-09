@@ -28,7 +28,7 @@
 },
 {
     "id": 4,
-    "place": "Eunos",
+    "place": "Eunos" ,
     "rent": 88,
     "lat": 1.331748,
     "lng": 103.905136,

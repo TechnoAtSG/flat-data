@@ -1,99 +1,52 @@
-[{
-        "id": 1,
-        "place": "Bedok",
-        "rent": 288,
-        "lat": 1.335007,
-        "lng": 103.914533,
-        "url": "https:\/\/images.unsplash.com\/photo-1545083036-b175dd155a1d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1049&q=80",
-        "price": 4000,
-        "currency": "SGD"
-    }, {
-        "id": 2,
-        "place": "Changi Beach",
-        "rent": 588,
-        "lat": 1.338770,
-        "lng": 103.918944,
-        "url": "https:\/\/images.unsplash.com\/photo-1521782462922-9318be1cfd04?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1055&q=80",
-        "price": 3900,
-        "currency": "SGD"
-    }, {
-        "id": 3,
-        "place": "Marina Bay",
-        "rent": 188,
-        "lat": 1.339049,
-        "lng": 103.916841,
-        "url": "https:\/\/images.unsplash.com\/photo-1544207240-42895ede7c09?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
-        "price": 4800,
-        "currency": "SGD"
-    }, 
-    {
-        "id": 4,
-        <<
-        << << < HEAD "place": "Eunos",
-        ===
-        === =
-        "place": "Eunos",
-        >>>
-        >>> > 4 dbec1230ec0955a72e3396c5a03b23b197db204 "rent": 88,
-        "lat": 1.331748,
-        "lng": 103.905136,
-        "url": "https:\/\/images.unsplash.com\/photo-1544207240-42895ede7c09?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
-        "price": 4800,
-        "currency": "SGD" <<
-            << << < HEAD
-    }
-] ===
-=== =
-}, {
-<<<<<<< HEAD
-    "id": 5,
-    "place": "Eunos",
-=======
-    "id": 3,
-    "place": "Marina Bay",
-    "rent": 188,
-    "lat": 1.339049,
-    "lng": 103.916841,
-    "url": "https:\/\/images.unsplash.com\/photo-1544207240-42895ede7c09?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
-    "price": 4800,
-    "currency": "SGD"
-},
-{
-    "id": 4,
-    "place": "Eunos" ,
-    "rent": 88,
-    "lat": 1.331748,
-    "lng": 103.905136,
-    "url": "https:\/\/images.unsplash.com\/photo-1544207240-42895ede7c09?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
-    "price": 4800,
-    "currency": "SGD"
-},{
-    "id": 5,
-    "place": "Eunos" ,
->>>>>>> c50023b69e886db2e4fe7e367c58c07fb983e7e2
-    "rent": 88,
-    "lat": 1.331748,
-    "lng": 103.905136,
-    "url": "https:\/\/images.unsplash.com\/photo-1544207240-42895ede7c09?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
-    "price": 4800,
-    "currency": "SGD"
-<<<<<<< HEAD
-}, {
-    "id": 6,
-    "place": "Marina Bay Sands",
-=======
-}
-,
-{
-    "id": 6,
-    "place": "Marina Bay Sands" ,
->>>>>>> c50023b69e886db2e4fe7e367c58c07fb983e7e2
-    "rent": 88,
-    "lat": 1.283469,
-    "lng": 103.860416,
-    "url": "https:\/\/images.unsplash.com\/photo-1544207240-42895ede7c09?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
-    "price": 4800,
-    "currency": "SGD"
-}
-] >>>
->>> > 4 dbec1230ec0955a72e3396c5a03b23b197db204
+[
+	{
+		"id": 1,
+		"place": "Bedok",
+		"rent": 288,
+		"lat": 1.335007,
+		"lng": 103.914533,
+		"url": "https://images.unsplash.com/photo-1545083036-b175dd155a1d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1049&q=80",
+		"price": 4000,
+		"currency": "SGD"
+	},
+	{
+		"id": 2,
+		"place": "Changi Beach",
+		"rent": 588,
+		"lat": 1.33877,
+		"lng": 103.918944,
+		"url": "https://images.unsplash.com/photo-1521782462922-9318be1cfd04?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1055&q=80",
+		"price": 3900,
+		"currency": "SGD"
+	},
+	{
+		"id": 3,
+		"place": "Kaki Bukit",
+		"rent": 188,
+		"lat": 1.339049,
+		"lng": 103.916841,
+		"url": "https://images.unsplash.com/photo-1544207240-42895ede7c09?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+		"price": 4800,
+		"currency": "SGD"
+	},
+	{
+		"id": 4,
+		"place": "Marina Bay Sands",
+		"rent": 300,
+		"lat": 1.283469,
+		"lng": 103.860416,
+		"url": "https://images.unsplash.com/photo-1544207240-42895ede7c09?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+		"price": 5800,
+		"currency": "SGD"
+	},
+	{
+		"id": 5,
+		"place": "Sunset Way",
+		"rent": 200,
+		"lat": 1.327887,
+		"lng": 103.7668,
+		"url": "https://images.unsplash.com/photo-1544207240-42895ede7c09?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+		"price": 1800,
+		"currency": "SGD"
+	}
+]

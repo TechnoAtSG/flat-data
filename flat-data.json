@@ -28,7 +28,26 @@
 },
 {
     "id": 4,
+<<<<<<< HEAD
     "place": "Eunos",
+=======
+    "place": "Eunos" ,
+>>>>>>> 4dbec1230ec0955a72e3396c5a03b23b197db204
+    "rent": 88,
+    "lat": 1.331748,
+    "lng": 103.905136,
+    "url": "https:\/\/images.unsplash.com\/photo-1544207240-42895ede7c09?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+    "price": 4800,
+    "currency": "SGD"
+<<<<<<< HEAD
+}
+]
+=======
+},
+ ,
+{
+    "id": 4,
+    "place": "Eunos" ,
     "rent": 88,
     "lat": 1.331748,
     "lng": 103.905136,
@@ -36,4 +55,16 @@
     "price": 4800,
     "currency": "SGD"
 }
+,
+{
+    "id": 5,
+    "place": "Marina Bay" ,
+    "rent": 88,
+    "lat": 1.283469,
+    "lng": 103.860416,
+    "url": "https:\/\/images.unsplash.com\/photo-1544207240-42895ede7c09?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+    "price": 4800,
+    "currency": "SGD"
+}
 ]
+>>>>>>> 4dbec1230ec0955a72e3396c5a03b23b197db204
